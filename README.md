@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="600" src='https://www.dignited.com/wp-content/uploads/2019/03/Chrome_Dino_non-birthday_version.gif'>
+</p>
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
